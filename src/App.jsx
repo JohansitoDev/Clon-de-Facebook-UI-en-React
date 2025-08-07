@@ -9,9 +9,7 @@ function App() {
 
   return (
     <>
-
-  <Login/>
-
+<h1>clon Facebook</h1>
     </>
   )
 }
