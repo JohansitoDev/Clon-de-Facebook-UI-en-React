@@ -12,7 +12,7 @@ function Login(){
                     <label htmlFor="" >Correo Eletronico</label>
                     <input type="text" placeholder="Ingrese su correo eletronico" />
                     <label htmlFor="">Password</label>
-                    <input type="password" placeholder="ingrese su contraseña" />
+                    <input type="password" placeholder="Ingrese su contraseña" />
                     <button type="buttton" className="btn btn-primary text-white">Entrar</button>
                 </div>
             </div>
