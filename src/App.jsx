@@ -9,7 +9,16 @@ function App() {
 
   return (
     <>
-<h1>clon Facebook</h1>
+<ion-app>
+  <ion-toolbar>
+    <ion-title>Facebook</ion-title>
+  </ion-toolbar>
+  <ion-content>
+    
+  <Login/>
+
+  </ion-content>
+</ion-app>
     </>
   )
 }
