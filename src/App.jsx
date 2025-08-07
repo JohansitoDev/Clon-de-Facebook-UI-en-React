@@ -5,10 +5,16 @@
 import Login from './components/Login';
 import Navbar from './components/Navbar';
 
-function App() {
-<div className="container">
-  <Navbar/>
-</div>
+function App(){
+  return(
+    <ion-app>
+      <ion-toolbar>
+        <Navbar/>
+      </ion-toolbar>
+      <ion-content>
+        <h2>MI pagina principal</h2>
+      </ion-content>
+    </ion-app>
+  )
 }
-
 export default App
