@@ -1,5 +1,3 @@
-import React from 'react';
-
 function Login() {
   return (
     <div className="container-fluid d-flex justify-content-center align-items-center bg-light" style={{ minHeight: '100vh' }}>
