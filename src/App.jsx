@@ -8,10 +8,10 @@ import {Navbar} from './components/Navbar';
 function App(){
   return(
     <ion-app>
-      <ion-toolbar>
-        <Navbar/>
-      </ion-toolbar>
       <ion-content>
+          <ion-toolbar>
+        <Navbar/>
+         </ion-toolbar>
         <h2>MI pagina principal</h2>
       </ion-content>
     </ion-app>
