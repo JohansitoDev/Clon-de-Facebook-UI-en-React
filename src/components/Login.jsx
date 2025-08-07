@@ -13,6 +13,7 @@ function Login(){
                     <input type="text" placeholder="Ingrese su correo eletronico" />
                     <label htmlFor="">Password</label>
                     <input type="password" placeholder="ingrese su contraseña" />
+                    <button type="buttton" className="btn btn-primary text-white">Entrar</button>
                 </div>
             </div>
         </div>
