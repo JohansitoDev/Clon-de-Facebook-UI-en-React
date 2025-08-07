@@ -4,7 +4,7 @@ import { FaFacebook, FaHome, FaUserFriends, FaStore, FaTv, FaBell, FaPlus, FaMes
 
 function Navbar() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-white border-bottom fixed-top">
+    <nav className="navbar navbar-expand-lg navbar-light bg-primary border-bottom fixed-top">
  
       <div className="container-fluid">
         <a className="navbar-brand text-primary" href="#">
